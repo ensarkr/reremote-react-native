@@ -89,7 +89,6 @@ const styles = StyleSheet.create({
   list: {
     padding: 8,
     gap: 10,
-    flex: 1,
   },
   title: {
     fontSize: 17,
