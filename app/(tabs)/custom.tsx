@@ -82,13 +82,14 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
   center: {
-    flex: 1,
     justifyContent: "center",
     alignItems: "center",
+    flexGrow: 1,
   },
   list: {
     padding: 8,
     gap: 10,
+    flexGrow: 1,
   },
   title: {
     fontSize: 17,
